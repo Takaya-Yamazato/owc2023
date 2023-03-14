@@ -1,0 +1,46 @@
+{
+  "name": "owc-2022-cms",
+  "description": "10th Optical Wireless Communicaiton (OWC) Workshop, IEEE ComSoc ICC 2022 at Seoul",
+  "version": "1.1.6",
+  "author": "Takaya Yamazato",
+  "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
+    "bulma": "^0.9.4",
+    "gatsby": "^5.7.0",
+    "gatsby-plugin-image": "^3.7.0",
+    "gatsby-plugin-purgecss": "^6.2.1",
+    "gatsby-plugin-react-helmet": "^6.7.0",
+    "gatsby-plugin-sass": "^6.7.0",
+    "gatsby-plugin-sharp": "^5.7.0",
+    "gatsby-remark-copy-linked-files": "^6.7.0",
+    "gatsby-remark-images": "^7.7.0",
+    "gatsby-remark-relative-images": "^2.0.2",
+    "gatsby-source-filesystem": "^5.7.0",
+    "gatsby-transformer-remark": "^6.7.0",
+    "gatsby-transformer-sharp": "^5.7.0",
+    "lodash": "^4.17.21",
+    "lodash-webpack-plugin": "^0.11.6",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "sass": "^1.59.2",
+    "uuid": "^9.0.0"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "clean": "gatsby clean",
+    "start": "yarn run develop",
+    "build": "gatsby clean && gatsby build --prefix-paths",
+    "develop": "gatsby clean && gatsby develop",
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  }
+}
