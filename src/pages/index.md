@@ -26,7 +26,7 @@ description: >-
 - [Fourth](https://icc2018.ieee-icc.org/workshop/4th-workshop-optical-wireless-communications-owc) held at Kansas City, USA, May 20, 2018
 - [Fifth](https://icc2019.ieee-icc.org/workshop/w23-5th-workshop-optical-wireless-communications) held at Shanghai, China, May 24, 2019
 - [Sixth](https://icc2020.ieee-icc.org/workshop/ws-17-workshop-optical-wireless-communications) held at Dublin, Ireland, June 7, 2020
-- [Seventh](http://yamazato.nuee.nagoya-u.ac.jp/owc2022/index.html) held at ICC 2022, Seoul, Korea, May 20, 2022\*\*
+- [Seventh](http://yamazato.nuee.nagoya-u.ac.jp/owc2022/index.html) held at ICC 2022, Seoul, Korea, May 20, 2022
 
 ## Globecom Workshops
 
