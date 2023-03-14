@@ -66,7 +66,7 @@ const Navbar = class extends React.Component {
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
-              <a className="navbar-item" href="https://github.com/Takaya-Yamazato/owc-2022" target="_blank" rel="noopener noreferrer">
+              <a className="navbar-item" href="https://github.com/Takaya-Yamazato/owc2023" target="_blank" rel="noopener noreferrer">
                 <span className="icon">
                   <img src={github} alt="Github" />
                 </span>

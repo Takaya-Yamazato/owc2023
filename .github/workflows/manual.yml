@@ -37,6 +37,7 @@ jobs:
       - name: List output files
         run: ls -laFG
       # rsync の設定
+      # https://github.com/marketplace/actions/rsync-deployments-action
       - name: rsync deployments
         uses: burnett01/rsync-deployments@5.2.1
         with:
