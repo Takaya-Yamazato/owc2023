@@ -12,11 +12,11 @@ Stay tuned!
 
 ### IMPORTANT DATES (tentative)
 
-|                          |                                                        |
-| ------------------------ | ------------------------------------------------------ |
-| Submission Deadline:     | <span style="color: red; "><s>20 April 2023</s></span> |
-| Acceptance Notification: | 10 June 2023                                           |
-| Camera Ready:            | June 20, 2023                                          |
+|                          |                                                 |
+| ------------------------ | ----------------------------------------------- |
+| Submission Deadline:     | <span style="color: red; ">20 April 2023</span> |
+| Acceptance Notification: | 10 June 2023                                    |
+| Camera Ready:            | June 20, 2023                                   |
 
 ### SUBMISSION GUIDELINES
 
