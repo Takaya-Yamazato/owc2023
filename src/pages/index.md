@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Optical Wireless Communication
 image: /img/jumbotron.jpg
-heading: OWC’22
-subheading: 7th IEEE ICC Workshop on Optical Wireless Communications (OWC'22)
+heading: OWC’23
+subheading: 1st IEEE ISCC Workshop on Optical Wireless Communications (OWC’23)
 mainpitch:
   title: Optical wireless communications
   description: >
@@ -12,9 +12,13 @@ description: >-
   This workshop aims to bring together researchers and practitioners from academia and industry working in emerging LiFi, visible light communications (VLC) and underwater optical communications as well as the traditional wireless infrared communications (IRC) to present, share and discuss their latest research results.
 ---
 
-## History
+# History
 
-### ICC Workshops
+## ISCC Workshop
+
+- **<span style="color: red; ">[First](http://yamazato.nuee.nagoya-u.ac.jp/owc2023/index.html) will be held during [IEEE ISCC 2023](https://2023.ieee-iscc.org/) at Tunis, Tunisia from 9 -12 July, 2023.</span>**
+
+## ICC Workshops
 
 - [First](https://icc2015.ieee-icc.org/content/workshops.html) held at London, UK, June. 8, 2015.
 - [Second](https://icc2016.ieee-icc.org/content/workshops.html#W02) held at Kuala Lumpur, Malaysia, May 23, 2016
@@ -22,9 +26,9 @@ description: >-
 - [Fourth](https://icc2018.ieee-icc.org/workshop/4th-workshop-optical-wireless-communications-owc) held at Kansas City, USA, May 20, 2018
 - [Fifth](https://icc2019.ieee-icc.org/workshop/w23-5th-workshop-optical-wireless-communications) held at Shanghai, China, May 24, 2019
 - [Sixth](https://icc2020.ieee-icc.org/workshop/ws-17-workshop-optical-wireless-communications) held at Dublin, Ireland, June 7, 2020
-- **<span style="color: red; ">[Seventh](http://yamazato.nuee.nagoya-u.ac.jp/owc2022/index.html) held at ICC 2022, Seoul, Korea, May 20, 2022</span>**
+- [Seventh](http://yamazato.nuee.nagoya-u.ac.jp/owc2022/index.html) held at ICC 2022, Seoul, Korea, May 20, 2022\*\*
 
-### Globecom Workshops
+## Globecom Workshops
 
 - [First](https://globecom2010.ieee-globecom.org/WORKSHOPS.html) held at Globecom 2010, Miami, USA, 6 – 10 December 2010
 - [Second](https://globecom2011.ieee-globecom.org/workshops.html) held at Globecom 2011, Houston TX, USA, 5 December 2011

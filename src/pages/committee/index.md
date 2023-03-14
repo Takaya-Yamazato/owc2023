@@ -8,64 +8,56 @@ description: >-
   Co-chairs
 intro:
   blurbs:
-    - image: haruyama_portrait3.jpg
-      chair: Prof. Shinichiro Haruyama
+    - image: Chedlia_Ben_Naila.jpg
+      chair: Dr. Chedlia Ben Naila
       text: >
-        received an M.S. in engineering science from University of California at Berkeley in 1983 and a Ph.D. in computer science from the University of Texas at Austin in 1990. He worked for Bell Laboratories of AT&T and Lucent Technologies, U.S.A from 1991 to 1996, and for Sony Computer Science Laboratories, Inc. from 1998 to 2002, when he joined Keio University. Other than his research activities of free-space optical communication, he made an effort to establish the standardization of IEC 62943 “Visible light beacon system for multimedia applications” in 2017 which can be used as a universal ID for visible light transmitters.
-    - image: Yeong-Min-Jang.jpg
-      chair: Prof. Yeong Min Jang
+        (S’08–M'20) received Ph.D. in telecommunications engineering from Waseda University, Tokyo, Japan, in 2012. She is currently an Assistant Professor at Nagoya University, Nagoya, Japan. Previously, she worked as a Junior Lecturer at Sup'com, Tunisia and Adjunct Lecturer at Waseda University, Japan. Her current research interests include optical wireless communications, free-space optics systems, and underwater communications. Dr. Ben Naila is a member of IEEE and OPTICA. She was recipient of the 2011 Waseda University Ono Azusa memorial academic award medal, 26th Telecom System Technology award from the Japanese Telecommunication Advancement Foundation (TAF) of Japan (2011) and IEEE ITU-T Kaleidoscope Best Paper award (2011). Since 2020, she has been serving as a TPC member of Globecom and ICC.
+    - image: YAMAZATO_Takaya.jpg
+      chair: Dr. Takaya Yamazato
       text: >
-        received the B.E. and M.E. degrees in electronics engineering from Kyungpook National University, South Korea, in 1985 and 1987, respectively, and the Ph.D. degree in computer science from the University of Massachusetts, USA, in 1999. He was with the Electronics and Telecommunications Research Institute, from 1987 to 2000. Since 2002, he has been with the School of Electrical Engineering, Kookmin University, Seoul, South Korea, where he has been the Director of the Ubiquitous IT Convergence Center, in 2005 and 2010, the Director of the LED Convergence Research Cen-ter, since 2010, the Director of the Internet of Energy Research Center, since 2018, and the Director of the Telematics Research Institute, since 2021. He has organized several conferences and workshops, such as the International Conference on Ubiquitous and Future Networks, from 2009 to 2017, the International Conference on ICT Convergence, from 2010 to 2016, the Interna-tional Conference on Artificial Intelligence in Information and Communication, from 2019 to 2021, the International Conference on Information Networking, in 2015, and the International Workshop on Optical Wireless LED Communication Networks, from 2013 to 2016. He is a Fellow of the KICS. He had served as the Executive Director of KICS, from 2006 to 2014, the Vice President of KICS, from 2014 to 2016, and the Executive Vice President of KICS, in 2018. He was also the President of KICS, in 2019. He served as the Chairman for the IEEE 802.15 Optical Camera Communications Study Group, in 2014, and the IEEE 802.15.7m Optical Wireless Communications TG. So, he successfully published IEEE 802.15.7-2018 and ISO 22738:2020 standard. He is the Chairman of IEEE 802.15.7a Higher Rate and Longer Range OCC TG, since 2020.
-    - image: Murat-Uysal.jpg
-      chair: Prof. Murat Uysal
+        is a professor at the Institute of Liberal Arts and Sciences, Nagoya University, Japan. He received a Ph.D. from the Department of Electrical Engineering, Keio University, Yokohama, Japan, in 1993. From 1993 to 1998, he was an Assistant Professor at the Department of Information Electronics, Nagoya University, Japan. From 1997 to 1998, he was a visiting researcher at the Research Group for RF Communications, University of Kaiserslautern, German. In 1998, he gave a half-day tutorial entitled “Introduction to CDMA ALOHA” at Globecom held in Sydney, Australia. Since then, he has been serving as a TPC member of Globecom and ICC. In 2006, he received the IEEE Communication Society’s Best Tutorial Paper Award. He served as the co-chair of the Wireless Communication Symposia of ICC 2009 and was the co-chair of Selected Areas in Communication Symposia of ICC 2011. From 2008 to 2010, he served as the chair of the Satellite and Space Communication Technical Committee. In 2011, he gave a half-day tutorial entitled “Visible Light Communication” at ICC 2011 held in Kyoto, Japan.
+    - image: Anna_Maria_Vegni.jpg
+      chair: Dr. Anna Maria Vegni
       text: >
-        (S’98–M’02-SM’07-F’yy) received the B.Sc. and the M.Sc. degree in electronics and communication engi-neering from Istanbul Technical University, Istanbul, Turkey, in 1995 and 1998, respectively, and the Ph.D. degree in electrical engineering from Texas A&M University, College Station, Texas, in 2001. He is currently a Full Professor and Chair of the De-partment of Electrical and Electronics Engineering at Ozyegin University, Istanbul, Turkey. He also serves as the Founding Di-rector of Center of Excellence in Optical Wireless Communication Technologies (OKATEM). Dr. Uysal is an IEEE Fellow and active contributor to his professional society. He was the Chair of IEEE Turkey Section (2015-2019) and the Chair of EU COST Action OPTICWISE (2011-2015). Over the years, he served as an Editor for IEEE Transactions on Wireless Communi-cations, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, IEEE Communications Letters, Wiley Wireless Communications and Mobile Computing (WCMC), Wiley Transactions on Emerging Telecommunications Tech-nologies (ETT) as well as Guest Editor of IEEE JSAC (2009 and 2015).
-    - image: Koji_Kamakura.png
-      chair: Prof. Koji Kamakura
+        is an Associate Professor in Telecommunications at the Department of Industrial, Electronic and Mechanical Engineering at Roma Tre University (Rome, Italy), since March 2023. She received the Ph.D. degree in Biomedical Engineering, Electromagnetics and Telecommunications from the Department of Applied Electronics, Roma Tre University, in March 2010. She received the 1st and 2nd level Laurea Degree cum laude in Electronics Engineering at Roma Tre University, in July 2004, and 2006, respectively. In 2009, she was a visiting researcher in the Multimedia Communication Laboratory, directed by Prof. Thomas D.C. Little, at the Department of Electrical and Computer Engineering, Boston University, Boston, MA. Her research activity focuses on vehicular networking, optical wireless communications, and visible light positioning. She a member of ACM and an IEEE Senior Member. In June 2021, she got the Italian Habilitation (Abilitazione Scientifica Nazionale) for Full Professorship in Telecommunication Engineering. She is involved in the organization of several IEEE and ACM international conferences and is a member of the editorial board of IEEE TCOM, IEEE ComMag, Ad Hoc Networks, Journal of Networks and Computer Applications Elsevier journals, WINET Springer, IEEE JCN, ITU J-FET and ETT Wiley journal.
+    - image: Hanaa_Abumarshoud.jpg
+      chair: Dr. Hanaa Abumarshoud
       text: >
-        (S'99–M'02) received the B.E., M.E., and Ph.D. degrees in electrical engineering from Keio University, Yokohama, Japan, in 1997, 1999, and 2002, respectively. He is a Professor at Department of Computer Science, Chiba Institute of Technology, Chiba, Japan. From 2002 to 2006, he was an Assistant Professor at the Department of Electronics and Mechanical Engineering, Chiba University, Chiba, Japan. From 2006 to 2015, he was an Associate Professor with the Department of Computer Science, Chiba Institute of Technology, Chiba, Japan. He was a Visiting Professor at Heudiasyc, Université de Technologie de Compiègne, France, from April 2013 to March 2014. He was a Visiting Scientist at the School of Information Technology and Engineering, University of Ottawa, Ottawa, ON, Canada, in 2002 and 2003. From 2000 to 2002, he was a Special Researcher of Fellowships of the Japan Society for the Promotion for Science, for Japanese Junior Scientists. His research interests include optical communication theory and system analysis. He is a Member of the IEICE. He received the 14th Telecom System Technology Award for Students from the Telecommunications Advancement Foundation in 1999 and the Ericsson Young Scientist Award in 2002.
+        is a Lecturer (Assistant Professor) in the James Watt School of Engineering, the University of Glasgow, Glasgow, UK. Prior to that, she was a Postdoctoral Research Associate at the LiFi Research and Development Centre at the University of Strathclyde (2020-2022) and the University of Edinburgh (2017-2020). She was awarded her MSc and PhD in Electrical and Computer Engineering in 2013 and 2017 from Khalifa University, UAE. Her main expertise is the application of information theory and signal processing techniques in visible light communications and LiFi systems, with particular focus on intelligent communications, resource allocation, multi-user access, and physical layer security. Dr Abumarshoud is an associate editor for IEEE Communications letters and a Senior Member of IEEE. She was recipient of IEEE TAOS Best Paper Award (2022).
 ---
 
-### TPC Vice Chairs
+### List of TPC Members (tentative)
 
-- Prof. Shintaro Arai, Okayama Univ Sci, Okayama, Japan
-- Prof. Masayuki Kinoshita, Chiba Institute of Technology, Japan
-
-### List of TPC Members
-
-- Luis Alves, Universidade of Aveiro, Portugal
 - Shintaro Arai, Okayama University of Science, Japan
-- Bastien Bechadergue, University of Versailles Saint-Quentin-en-Yvelines, France
-- Chedlia Ben Naila, Nagoya University, Japan
-- Julian Cheng, University of British Columbia, Canada
-- Nan Chi, Fudan University, China
+- Mauro Biagi, Sapienza University of Rome, Italy
+- Abdelmoula Bekkali, Toyo Cooperation, JAPAN
+- Tarik Borogovac, Boston University, USA
+- Maite Brandt-Pearce, Univ. of Virginia, USA
 - Wataru Chujo, Meijo University, Japan
-- Xiong Deng, Technical University of Eindhoven, Netherlands
-- Antonio Garcia-Zambrana, University of Malaga, Spain
-- Chen Gong, University of Science and Technology of China, China
-- Harald Haas, The University of Strathclyde, UK
+- Neda Cvijetic, NEC Laboratories America, Inc., USA
+- Hany Elgala, Boston University, USA
+- Fary Ghassemlooy, Northumbia University, UK
+- Roger Green, University of Warwick, UK
+- Harald Haas, University of Edinburgh, UK
 - Hiromasa Habuchi, Ibaraki University, Japan
-- Sung-yoon Jung, Yeungnam University, South Korea
-- Mohammad-Ali Khalighi, Ecole Centrale Marseille, France
-- Byung Wook Kim, Changwon National University, South Korea
+- Shinichiro Haruyama, Keio University, Japan
+- Tiffany Jing Li, Lehigh University, USA
+- Thomas Kamalakis, Univ. of Athens, Greece
+- Koji Kamakura, Chiba Institute of Technology, Japan
+- Mohsen Kavehrad, Pennsylvania State University, USA
 - Masayuki Kinoshita, Chiba Institute of Technology, Japan
-- Motoi Kodama, Tamagawa University, Japan
-- Yusuke Kozawa, Ibaraki University, Japan
+- Valencia Joyner Koomson, Tufts University, USA
+- Lutz Lampe, University of British Columbia, Canada
+- Klaus-Dieter Langer, Heinrich Hertz Institute, Fraunhofer, Germany
+- Erich Leitgeb, Graz University of Technology, Austria
+- Xin Lin, Nakagawa Laboratories Inc, Japan
 - Thomas Little, Boston University, USA
-- Dominic O'Brien, Oxford University, UK
-- Hiraku Okada, Nagoya University, Japan
-- Anh Pham, University of Aizu, Japan
-- Tien Dat Pham, National Institute of Information and Communications Technology, Japan
-- Maximilian Riegel, Nokia Bell Labs, Germany
-- Yoshifumi Shiraki, Nippon Telegraph and Telephone Corporation, Japan
-- Kotomi Takahashi, Chiba Institute of Technology, Japan
-- Osamu Takyu, Shinshu University, Japan
-- Phuc V. Trinh, National Institute of Information and Communications Technology, Japan
-- Mike Wolf, Ilmenau University of Technology, Germany
-- Yoshifumi Shiraki, Nippon Telegraph and Telephone Corporation, Japan
-- Xiping Wu, University College Dublin, Ireland
-- Zhengyuan Xu, University of Science and Technology of China, China
-- Takaya Yamazato, Nagoya University, Japan
-- Tomohiro Yendo, Nagaoka University of Technology, Japan
-- Murat Yuksel, University of Central Florida, USA
-- Anatolij Zubow, Technische Universität Berlin, Germany
+- Francisco Lopez-Hernandez, Universidad Politecnica, Madrid, Spain
+- Valeria Loscrì, INRIA, France
+- Stefan Mangold, Disney Research, USA
+- Brian Sadler, Army Research Laboratory, USA
+- Himal Suraweera, University of Peradeniya, Sri Lanka
+- Murat Uysal, Ozyegin University, Turkey
+- Joachim. W. Walewski, Siemens, Germany
+- Zhengyuan Xu, Tsinghua University, China
+- Tomohiko Yendo, Nagaoka University of Technology, Japan
