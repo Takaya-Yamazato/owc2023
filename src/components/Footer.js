@@ -58,9 +58,9 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="https://2023.ieee-iscc.org/">
+                      <a className="navbar-item" href="https://2023.ieee-iscc.org/" target="_blank" rel="noopener noreferrer" title="28th IEEE Symposium on Computers and Communications (ISCC)">
                         28th IEEE Symposium on Computers and Communications (ISCC)
-                      </Link>
+                      </a>
                     </li>
                   </ul>
                 </section>
