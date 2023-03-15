@@ -5,7 +5,7 @@ title: Submission
 image: /img/jumbotron.jpg
 ---
 
-[Download Call for Submissions PDF >>](OWC-Workshop-CFP_IEEE_ISCC2023_0315.pdf)
+[Download Call for Submissions PDF >>](OWC-Workshop-CFP_IEEE_ISCC2023_0315_a.pdf)
 
 ### IMPORTANT DATES (tentative)
 
