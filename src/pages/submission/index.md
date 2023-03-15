@@ -23,4 +23,4 @@ Prospective authors are encouraged to submit a 6-page IEEE conference style pape
 ---
 
 <span style="color: red; ">Please note that this page is tentative.<br />
-We will update this page once we get information from IEEE ISCC 2023 committee.</span>
+We will update the submission detail once we get information from IEEE ISCC 2023 committee.</span>
