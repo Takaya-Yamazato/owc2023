@@ -38,14 +38,14 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="OWC2022" style={{ width: "88px" }} />
+              <img src={logo} alt="OWC2023" style={{ width: "88px" }} />
             </Link>
             {/* Hamburger menu */}
-            <div className={`navbar-burger burger ${this.state.navBarActiveClass}`} data-target="navMenu" onClick={() => this.toggleHamburger()}>
+            <button className={`navbar-burger burger ${this.state.navBarActiveClass}`} aria-label="Nav button" data-target="navMenu" onClick={() => this.toggleHamburger()} tabIndex={0}>
               <span />
               <span />
               <span />
-            </div>
+            </button>
           </div>
           <div id="navMenu" className={`navbar-menu ${this.state.navBarActiveClass}`}>
             <div className="navbar-start has-text-centered">

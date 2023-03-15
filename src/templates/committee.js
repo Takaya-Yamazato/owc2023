@@ -1,36 +1,28 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { graphql, withPrefix } from 'gatsby'
-import Layout from '../components/Layout'
-import Features from '../components/Features'
-import Content, { HTMLContent } from '../components/Content'
+import React from "react";
+import PropTypes from "prop-types";
+import { graphql, withPrefix } from "gatsby";
+import Layout from "../components/Layout";
+import Features from "../components/Features";
+import Content, { HTMLContent } from "../components/Content";
 
-export const CommitteePageTemplate = ({
-  image,
-  title,
-  heading,
-  description,
-  intro,
-  content,
-  contentComponent,
-}) => {
-  const PageContent = contentComponent || Content
+const CommitteePageTemplate = ({ image, title, heading, description, intro, content, contentComponent }) => {
+  const PageContent = contentComponent || Content;
 
   return (
     <div className="content">
       <div
         className="full-width-image-container margin-top-0"
         style={{
-          backgroundImage: `url('${withPrefix('/')}img/jumbotron.jpg')`,
+          backgroundImage: `url('${withPrefix("/")}img/jumbotron.jpg')`,
         }}
       >
         <h2
           className="has-text-weight-bold is-size-1"
           style={{
-            boxShadow: '0.5rem 0 0 #134d72, -0.5rem 0 0 #134d72',
-            backgroundColor: '#134d72',
-            color: 'white',
-            padding: '1rem',
+            boxShadow: "0.5rem 0 0 #134d72, -0.5rem 0 0 #134d72",
+            backgroundColor: "#134d72",
+            color: "white",
+            padding: "1rem",
           }}
         >
           {title}
@@ -41,9 +33,7 @@ export const CommitteePageTemplate = ({
           <div className="section">
             <div className="columns">
               <div className="column is-7 is-offset-1">
-                <h3 className="has-text-weight-semibold is-size-2">
-                  {heading}
-                </h3>
+                <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
                 <h3>{description}</h3>
                 <hr></hr>
               </div>
@@ -64,8 +54,8 @@ export const CommitteePageTemplate = ({
         </div>
       </section>
     </div>
-  )
-}
+  );
+};
 
 CommitteePageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -77,25 +67,17 @@ CommitteePageTemplate.propTypes = {
   }),
   content: PropTypes.string,
   contentComponent: PropTypes.func,
-}
+};
 
 const CommitteePage = ({ data }) => {
-  const { markdownRemark: post } = data
+  const { markdownRemark: post } = data;
 
   return (
     <Layout>
-      <CommitteePageTemplate
-        contentComponent={HTMLContent}
-        image={post.frontmatter.image}
-        title={post.frontmatter.title}
-        heading={post.frontmatter.heading}
-        description={post.frontmatter.description}
-        intro={post.frontmatter.intro}
-        content={post.html}
-      />
+      <CommitteePageTemplate contentComponent={HTMLContent} image={post.frontmatter.image} title={post.frontmatter.title} heading={post.frontmatter.heading} description={post.frontmatter.description} intro={post.frontmatter.intro} content={post.html} />
     </Layout>
-  )
-}
+  );
+};
 
 CommitteePage.propTypes = {
   data: PropTypes.shape({
@@ -103,9 +85,9 @@ CommitteePage.propTypes = {
       frontmatter: PropTypes.object,
     }),
   }),
-}
+};
 
-export default CommitteePage
+export default CommitteePage;
 
 export const committeePageQuery = graphql`
   query CommitteePage($id: String!) {
@@ -134,4 +116,4 @@ export const committeePageQuery = graphql`
       }
     }
   }
-`
+`;

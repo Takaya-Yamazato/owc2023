@@ -1,48 +1,39 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { Link, graphql, withPrefix } from 'gatsby'
+import React from "react";
+import PropTypes from "prop-types";
+import { Link, graphql, withPrefix } from "gatsby";
 
-import Layout from '../components/Layout'
-import BlogRoll from '../components/BlogRoll'
-import Content, { HTMLContent } from '../components/Content'
+import Layout from "../components/Layout";
+import BlogRoll from "../components/BlogRoll";
+import Content, { HTMLContent } from "../components/Content";
 
-export const IndexPageTemplate = ({
-  image,
-  title,
-  heading,
-  subheading,
-  mainpitch,
-  description,
-  content,
-  contentComponent,
-}) => {
-  const PageContent = contentComponent || Content
+const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch, description, content, contentComponent }) => {
+  const PageContent = contentComponent || Content;
 
   return (
     <div>
       <div
         className="full-width-image margin-top-0"
         style={{
-          backgroundImage: `url('${withPrefix('/')}img/jumbotron.jpg')`,
+          backgroundImage: `url('${withPrefix("/")}img/jumbotron.jpg')`,
         }}
       >
         <div
           style={{
-            display: 'flex',
-            height: '150px',
-            lineHeight: '1',
-            justifyContent: 'space-around',
-            alignItems: 'left',
-            flexDirection: 'column',
+            display: "flex",
+            height: "150px",
+            lineHeight: "1",
+            justifyContent: "space-around",
+            alignItems: "left",
+            flexDirection: "column",
           }}
         >
           <h2
             className="has-text-weight-bold is-size-1"
             style={{
-              boxShadow: '0.5rem 0 0 #134d72, -0.5rem 0 0 #134d72',
-              backgroundColor: '#134d72',
-              color: 'white',
-              padding: '1rem',
+              boxShadow: "0.5rem 0 0 #134d72, -0.5rem 0 0 #134d72",
+              backgroundColor: "#134d72",
+              color: "white",
+              padding: "1rem",
             }}
           >
             {title}
@@ -50,11 +41,11 @@ export const IndexPageTemplate = ({
           <h3
             className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
             style={{
-              boxShadow: '#134d72 0.5rem 0px 0px, #134d72 -0.5rem 0px 0px',
-              backgroundColor: '#134d72',
-              color: 'white',
-              lineHeight: '1',
-              padding: '0.25em',
+              boxShadow: "#134d72 0.5rem 0px 0px, #134d72 -0.5rem 0px 0px",
+              backgroundColor: "#134d72",
+              color: "white",
+              lineHeight: "1",
+              padding: "0.25em",
             }}
           >
             {subheading}
@@ -77,9 +68,7 @@ export const IndexPageTemplate = ({
                   </div>
                   <div className="columns">
                     <div className="column is-12">
-                      <h3 className="has-text-weight-semibold is-size-2">
-                        {heading}
-                      </h3>
+                      <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
                       <p>{description}</p>
                     </div>
                   </div>
@@ -91,9 +80,7 @@ export const IndexPageTemplate = ({
                     </div>
                   </div>
                   <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      News and Announcements
-                    </h3>
+                    <h3 className="has-text-weight-semibold is-size-2">News and Announcements</h3>
                     <BlogRoll />
                     <div className="column is-12 has-text-centered">
                       <Link className="btn" to="/blog">
@@ -108,8 +95,8 @@ export const IndexPageTemplate = ({
         </div>
       </section>
     </div>
-  )
-}
+  );
+};
 
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -120,27 +107,17 @@ IndexPageTemplate.propTypes = {
   description: PropTypes.string,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
-}
+};
 
 const IndexPage = ({ data }) => {
-  const { markdownRemark: post } = data
+  const { markdownRemark: post } = data;
 
   return (
     <Layout>
-      <IndexPageTemplate
-        contentComponent={HTMLContent}
-        image={post.frontmatter.image}
-        title={post.frontmatter.title}
-        heading={post.frontmatter.heading}
-        subheading={post.frontmatter.subheading}
-        mainpitch={post.frontmatter.mainpitch}
-        description={post.frontmatter.description}
-        intro={post.frontmatter.intro}
-        content={post.html}
-      />
+      <IndexPageTemplate contentComponent={HTMLContent} image={post.frontmatter.image} title={post.frontmatter.title} heading={post.frontmatter.heading} subheading={post.frontmatter.subheading} mainpitch={post.frontmatter.mainpitch} description={post.frontmatter.description} intro={post.frontmatter.intro} content={post.html} />
     </Layout>
-  )
-}
+  );
+};
 
 IndexPage.propTypes = {
   data: PropTypes.shape({
@@ -148,9 +125,9 @@ IndexPage.propTypes = {
       frontmatter: PropTypes.object,
     }),
   }),
-}
+};
 
-export default IndexPage
+export default IndexPage;
 
 export const pageQuery = graphql`
   query IndexPageTemplate {
@@ -173,4 +150,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
