@@ -25,7 +25,6 @@ The workshop focusing on OWC covering ultraviolet, visible, and infrared bands w
 - Beam steering and alignment techniques for OWC
 - Reconfigurable intelligent surfaces (RIS) for OWC
 - Fading mitigation in FSO links: spatial, temporal, polarization, coding, and adaptive approaches
-- Artificial intelligence and machine learning for intelligent and adaptive networks
 - Mobile-to-infrastructure and mobile-to-mobile optical communication
 - Vehicle-to-vehicle and vehicle-to-traffic light optical communication
 - OWC for satellite communication
