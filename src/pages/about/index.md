@@ -5,35 +5,31 @@ title: About OWC
 image: /img/jumbotron.jpg
 ---
 
-### Workshop Scope
+# History
 
-The ever increasing demand for capacity and quality in wireless communication links has continued to inspire researchers to innovate new design methodologies and concepts over wireless systems and networks with the ultimate aim of achieving a next-generation network. In the past few decades, optical wireless communication (OWC) technologies have been recognized as promising enablers for flexible, high-capacity communication systems/networks, especially in 5G/6G, aerospace, and internet of things (IoT) applications. In fact, the current radio frequency (RF) spectrum is no longer sufficient to meet the exponential increase of the physical devices connected to the internet as well as the high capacity backhaul connectivity required by 5G and beyond communications. Regarded as an attractive complement to RF-based communication, OWC uses an ultra-wide range of the unregulated spectrum that can provide significant spectrum relief, especially when an infrastructure is already in place. OWC technologies encompass several research derivatives, such as free-space optical (FSO) communications, visible light communications (VLC), ultraviolet (UV) communications, optical camera communications (OCC), and underwater optical wireless communications (UOWC).
+## ISCC Workshop
 
-OWC-based systems have rapidly gained momentum considering the tremendous advancements in optical sources from high-power bulky solid-state laser diodes (LDs) to low power compact light emitting diodes (LEDs) in different optical spectra (i.e., infrared, visible, ultraviolet) and detectors from vacuum tube based to semiconductor avalanche photodetectors (PDs). LED devices offer not only compelling advantages for energy efficient lighting but also tremendous opportunities for wireless communications. In the OCC-based systems, the optical image sensors have been utilized as receivers based on infrared (IR) or visible bands. Considering that no modification is required at the receiver, the current off-the-the-shelf smartphones, digital cameras, rear vehicle cameras, and surveillance cameras are all possible receiver candidates. Therefore, OCC has attracted much interest in areas such as IoT, indoor localization, motion capture, and intelligent transportation systems (ITS). On the other hand, VLC networks have been expanded to deliver localization and positioning information, which can be used for guidance or to deliver context-sensitive information. In this context, OWC systems have also been developed for vehicular networks to convey collision avoidance information as well as traffic data to moving automobiles. UV OWC links enjoy the benefit of covert and license-free operation while requiring little orientation. FSO communication systems have been recognized as a good wireless interconnecting technology for high-capacity communication networks in B5G/6G deployment, ensuring data rates similar to those offered by optical fiber systems but at a fraction of its deployment cost.
-In addition to terrestrial applications, UOWC have recently attracted interest in the field of wireless communication as an inexpensive broadband submarine technology. According to the current technological vision of NTT DOCOMO on 5G Evolution and 6G, UOWC are considered a potential candidate for B5G/6G networks. Taking advantage of the rapid advancement of blue-green LDs and LEDs and detectors, UOWC can provide higher data rate transmission at lower latency levels and significantly lower power consumption compared to RF and acoustic counterparts for short range wireless links.
+- **<span style="color: red; ">[First](https://2023.ieee-iscc.org/workshops/) will be held in conjunction with [IEEE ISCC 2023](https://2023.ieee-iscc.org/) at Tunis, Tunisia, on 9 July, 2023.</span>**
 
-Although the area of OWC is included in several academic societies (e.g., SPIE, Optica, IEEE Communications, Signal Processing, Photonics), it remains quite isolated, and it is still difficult for the researchers in this field to identify a flagship conference or workshop on OWC. The main objectives of this workshop are (a) to establish OWC as a successful track within the main conference, and (b) to foster a community and relevant, focused activities, and present state-of-the-art research and development results from academia and industry at an international level. The workshop covers OWC with their different derivatives, i.e., FSO, VLC, UV, OCC for terrestrial, space or underwater applications. At the workshop, we plan to have invited papers; in particular, we would like to reach a broader community of core communication theory, information theory, signal processing, and networking researchers.
+## ICC Workshops
 
-### Topics of Interest
+- [First](https://icc2015.ieee-icc.org/content/workshops.html) held at London, UK, June 8, 2015.
+- [Second](https://icc2016.ieee-icc.org/content/workshops.html#W02) held at Kuala Lumpur, Malaysia, May 23, 2016
+- [Third](https://icc2017.ieee-icc.org/workshop/3rd-workshop-optical-wireless-communications-owc.html) held at Paris, France, May 21, 2017
+- [Fourth](https://icc2018.ieee-icc.org/workshop/4th-workshop-optical-wireless-communications-owc) held at Kansas City, USA, May 20, 2018
+- [Fifth](https://icc2019.ieee-icc.org/workshop/w23-5th-workshop-optical-wireless-communications) held at Shanghai, China, May 24, 2019
+- [Sixth](https://icc2020.ieee-icc.org/workshop/ws-17-workshop-optical-wireless-communications) held at Dublin, Ireland, June 7, 2020
+- [Seventh](http://yamazato.nuee.nagoya-u.ac.jp/owc2022/index.html) held at ICC 2022, Seoul, Korea, May 20, 2022
 
-The workshop focusing on OWC covering ultraviolet, visible, and infrared bands will welcome submissions in areas of modeling, design, implementation, simulation, and standardization. The potential topics include, but are not limited to:
+## Globecom Workshops
 
-- Transceiver design and optimization
-- OWC modulation, coding, and detection
-- Optics design (lenses, concentrators, diffusers, etc.)
-- Physical layer security for OWC
-- Beam steering and alignment techniques for OWC
-- Reconfigurable intelligent surfaces (RIS) for OWC
-- Fading mitigation in FSO links: spatial, temporal, polarization, coding, and adaptive approaches
-- Mobile-to-infrastructure and mobile-to-mobile optical communication
-- Vehicle-to-vehicle and vehicle-to-traffic light optical communication
-- OWC for satellite communication
-- OWC transceiver design and optimization
-- OWC link duplexing and multiple access techniques
-- OWC interconnect in the datacenter
-- Optical wireless sensor networks
-- OWC for B5G/6G networks
-- OWC for positioning
-- Hybrid RF/THz/OWC links
-- Underwater optical communication
-- Ultraviolet communications
+- [First](https://globecom2010.ieee-globecom.org/WORKSHOPS.html) held at Globecom 2010, Miami, USA, Dec. 6 – 10, 2010
+- [Second](https://globecom2011.ieee-globecom.org/workshops.html) held at Globecom 2011, Houston TX, USA, Dec. 5, 2011
+- [Third](http://www.bu.edu/smartlighting/optical-wireless-communications-workshop/) held at Globecom 2012, Anaheim, CA, USA, Dec. 3, 2012
+- [Fourth](https://www.ece.mcmaster.ca/~hranilovic/owc13/OWC_2013/Home.html) held at Globecom 2013, Atlanta, GA, USA, Dec. 9, 2013
+- [Fifth](http://www.bu.edu/smartlighting/5th-ieee-workshop-on-optical-wireless-communications-owc14/) held at Globecom 2014, Austin, TX, USA, Dec. 8, 2014
+- [Sixth](http://owcworkshop.ok.ubc.ca/) held at Globecom 2015, San Diego, CA, USA, Dec. 6, 2015
+- [Seventh](https://globecom2017.ieee-globecom.org/workshop/ws-11-7th-ieee-globecom-workshop-optical-wireless-communications-owc%e2%80%9917) held at Globecom 2017, Singapore, Singapore, Dec. 8, 2017
+- [Eighth](http://yamazato.nuee.nagoya-u.ac.jp/owc2018/index.html) held at Globecom 2018, Abu Dhabi, UAE, Dec. 9, 2018
+- [Ninth](http://yamazato.nuee.nagoya-u.ac.jp/owc2020/) held at Globecom 2020, Taipei, Taiwan, [Dec. 7, 2020](https://globecom2020.ieee-globecom.org/workshop/ws-01-workshop-optical-wireless-communications-owc)
+
