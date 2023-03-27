@@ -9,7 +9,7 @@ image: /img/jumbotron.jpg
 
 ## ISCC Workshop
 
-- **<span style="color: red; ">[First](https://2023.ieee-iscc.org/workshops/) will be held in conjunction with [IEEE ISCC 2023](https://2023.ieee-iscc.org/) at Tunis, Tunisia, on 9 July, 2023.</span>**
+- **<span style="color: red; ">[First](https://2023.ieee-iscc.org/workshops/) will be held in conjunction with [IEEE ISCC 2023](https://2023.ieee-iscc.org/) at Tunis, Tunisia, on July 9, 2023.</span>**
 
 ## ICC Workshops
 
