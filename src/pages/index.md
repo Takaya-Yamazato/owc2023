@@ -7,7 +7,7 @@ subheading: 1st IEEE ISCC Workshop on Optical Wireless Communications (OWC’23)
 mainpitch:
   title: Optical wireless communications
   description: >
-  Optical wireless communications (OWC) is a form of optical communication in which unguided visible, infrared (IR), or ultraviolet (UV) light is used to carry a signal.
+    Optical wireless communications (OWC) is a form of optical communication in which unguided visible, infrared (IR), or ultraviolet (UV) light is used to carry a signal.
 description: >-
   This workshop aims to bring together researchers and practitioners from academia and industry working in emerging LiFi, visible light communications (VLC) and underwater optical communications as well as the traditional wireless infrared communications (IRC) to present, share and discuss their latest research results.
 ---
@@ -31,7 +31,7 @@ The workshop focusing on OWC covering ultraviolet, visible, and infrared bands w
 - Physical layer security for OWC
 - Beam steering and alignment techniques for OWC
 - Reconfigurable intelligent surfaces (RIS) for OWC
-- Fading mitigation in FSO links: spatial, temporal, polarization, coding, and adaptive approaches
+- Fading mitigation in FSO links: spatial, temporal, polarization, coding, and adaptive       approaches
 - Mobile-to-infrastructure and mobile-to-mobile optical communication
 - Vehicle-to-vehicle and vehicle-to-traffic light optical communication
 - OWC for satellite communication
