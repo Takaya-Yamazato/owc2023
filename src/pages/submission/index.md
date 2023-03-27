@@ -12,8 +12,8 @@ image: /img/jumbotron.jpg
 |                          |                                                 |
 | ------------------------ | ----------------------------------------------- |
 | Submission Deadline:     | <span style="color: red; ">15 April 2023</span> |
-| Acceptance Notification: | 22 May 2023                                    |
-| Camera Ready:            | 30 May 2023 (firm)                                 |
+| Acceptance Notification: | 22 May 2023                                     |
+| Camera Ready:            | 30 May 2023 (firm)                              |
 
 ### SUBMISSION GUIDELINES
 
