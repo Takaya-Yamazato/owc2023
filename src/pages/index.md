@@ -12,7 +12,7 @@ description: >-
   OWC'23 workshop aims to bring together researchers and practitioners from academia and industry working in emerging LiFi, visible light communications (VLC) and underwater optical communications as well as the traditional wireless infrared communications (IRC) to present, share and discuss their latest research results.
 ---
 
-### Workshop Scope
+# Workshop Scope
 
 The ever increasing demand for capacity and quality in wireless communication links has continued to inspire researchers to innovate new design methodologies and concepts over wireless systems and networks with the ultimate aim of achieving a next-generation network. In the past few decades, optical wireless communication (OWC) technologies have been recognized as promising enablers for flexible, high-capacity communication systems/networks, especially in 5G/6G, aerospace, and internet of things (IoT) applications. In fact, the current radio frequency (RF) spectrum is no longer sufficient to meet the exponential increase of the physical devices connected to the internet as well as the high capacity backhaul connectivity required by 5G and beyond communications. Regarded as an attractive complement to RF-based communication, OWC uses an ultra-wide range of the unregulated spectrum that can provide significant spectrum relief, especially when an infrastructure is already in place. OWC technologies encompass several research derivatives, such as free-space optical (FSO) communications, visible light communications (VLC), ultraviolet (UV) communications, optical camera communications (OCC), and underwater optical wireless communications (UOWC).
 
@@ -21,7 +21,7 @@ In addition to terrestrial applications, UOWC have recently attracted interest i
 
 Although the area of OWC is included in several academic societies (e.g., SPIE, Optica, IEEE Communications, Signal Processing, Photonics), it remains quite isolated, and it is still difficult for the researchers in this field to identify a flagship conference or workshop on OWC. The main objectives of this workshop are (a) to establish OWC as a successful track within the main conference, and (b) to foster a community and relevant, focused activities, and present state-of-the-art research and development results from academia and industry at an international level. The workshop covers OWC with their different derivatives, i.e., FSO, VLC, UV, OCC for terrestrial, space or underwater applications. At the workshop, we plan to have invited papers; in particular, we would like to reach a broader community of core communication theory, information theory, signal processing, and networking researchers.
 
-### Topics of Interest
+# Topics of Interest
 
 The workshop focusing on OWC covering ultraviolet, visible, and infrared bands will welcome submissions in areas of modeling, design, implementation, simulation, and standardization. The potential topics include, but are not limited to:
 
