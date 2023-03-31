@@ -3,12 +3,11 @@ templateKey: index-page
 title: Optical Wireless Communications
 image: /img/jumbotron.jpg
 heading: OWC'23
-subheading: International Workshop on Optical Wireless Communications (OWC'23), co-located with IEEE ISCC 2023, 9-12 July 2023, Tunis, Tunisia
+subheading: International Workshop on Optical Wireless Communications (OWC'23), co-located with IEEE ISCC 2023
 mainpitch:
   title: Optical wireless communications
-  description: >
-    Optical wireless communications (OWC) is a form of optical communication in which unguided visible, infrared (IR), or ultraviolet (UV) light is used to carry a signal.
-description: >- 
+  description: Optical wireless communications (OWC) is a form of optical communication in which unguided visible, infrared (IR), or ultraviolet (UV) light is used to carry a signal.
+description: >-
   OWC'23 workshop aims to bring together researchers and practitioners from academia and industry working in emerging LiFi, visible light communications (VLC) and underwater optical communications as well as the traditional wireless infrared communications (IRC) to present, share and discuss their latest research results.
 ---
 
