@@ -13,7 +13,7 @@ tags:
 
 We welcome your submission through the EDAS submission link: https://edas.info/N30883
 
-The submission deadline is April 20, 2023.
+The submission deadline is April 15, 2023.
 We highly welcome your valuable work.
 
 - Paper submission: April 15, 2023
