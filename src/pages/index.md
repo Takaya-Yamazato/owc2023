@@ -3,7 +3,7 @@ templateKey: index-page
 title: Optical Wireless Communications
 image: /img/jumbotron.jpg
 heading: OWC'23
-subheading: International Workshop on Optical Wireless Communications (OWC'23), co-located with IEEE ISCC 2023
+subheading: International Workshop on Optical Wireless Communications (OWC'23),co-located with IEEE ISCC 2023
 mainpitch:
   title: Optical wireless communications
   description: Optical wireless communications (OWC) is a form of optical communication in which unguided visible, infrared (IR), or ultraviolet (UV) light is used to carry a signal.
