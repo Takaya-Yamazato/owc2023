@@ -1,7 +1,7 @@
 {
-  "name": "owc-2022-cms",
-  "description": "10th Optical Wireless Communicaiton (OWC) Workshop, IEEE ComSoc ICC 2022 at Seoul",
-  "version": "1.1.6",
+  "name": "owc-2023-cms",
+  "description": "1st Optical Wireless Communicaiton (OWC) Workshop, IEEE ISCC 2023 at Tunis, Tunisia",
+  "version": "1.1.7",
   "author": "Takaya Yamazato",
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
