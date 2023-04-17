@@ -16,7 +16,7 @@ We welcome your submission through the EDAS submission link: https://edas.info/N
 The submission deadline has been extended to May 7, 2023.
 We highly welcome your valuable work.
 
-- Paper submission: <s>April 15, 2023</s> May 7, 2023
+- Paper submission: <s>April 15, 2023</s> May 7, 2023 (EXTENDED)
 - Notification of acceptance: May 22, 2023
 - Camera-ready: May 30, 2023 (firm)
 
