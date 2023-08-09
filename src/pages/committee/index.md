@@ -2,7 +2,7 @@
 templateKey: "committee"
 path: /committee
 title: Committee
-image: /img/jumbotron.jpg
+image: /img/jumbotron.webp
 heading: Workshop Organizers
 description: >-
   Co-chairs

@@ -13,7 +13,7 @@ const CommitteePageTemplate = ({ image, title, heading, description, intro, cont
       <div
         className="full-width-image-container margin-top-0"
         style={{
-          backgroundImage: `url('${withPrefix("/")}img/jumbotron.jpg')`,
+          backgroundImage: `url('${withPrefix("/")}img/jumbotron.webp')`,
         }}
       >
         <h2

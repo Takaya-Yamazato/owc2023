@@ -2,7 +2,7 @@
 templateKey: "about-page"
 path: /program
 title: Program
-image: /img/jumbotron.jpg
+image: /img/jumbotron.webp
 ---
 
 <!-- Here is the tentative program.

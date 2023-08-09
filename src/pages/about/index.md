@@ -2,7 +2,7 @@
 templateKey: "about-page"
 path: /about
 title: About OWC
-image: /img/jumbotron.jpg
+image: /img/jumbotron.webp
 ---
 
 ## ISCC Workshop
@@ -30,4 +30,3 @@ image: /img/jumbotron.jpg
 - [Seventh](https://globecom2017.ieee-globecom.org/workshop/ws-11-7th-ieee-globecom-workshop-optical-wireless-communications-owc%e2%80%9917) held at Globecom 2017, Singapore, Singapore, Dec. 8, 2017
 - [Eighth](http://yamazato.nuee.nagoya-u.ac.jp/owc2018/index.html) held at Globecom 2018, Abu Dhabi, UAE, Dec. 9, 2018
 - [Ninth](http://yamazato.nuee.nagoya-u.ac.jp/owc2020/) held at Globecom 2020, Taipei, Taiwan, [Dec. 7, 2020](https://globecom2020.ieee-globecom.org/workshop/ws-01-workshop-optical-wireless-communications-owc)
-

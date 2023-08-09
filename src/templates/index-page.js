@@ -14,7 +14,7 @@ const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch, descr
       <div
         className="full-width-image margin-top-0"
         style={{
-          backgroundImage: `url('${withPrefix("/")}img/jumbotron.jpg')`,
+          backgroundImage: `url('${withPrefix("/")}img/jumbotron.webp')`,
         }}
       >
         <div
