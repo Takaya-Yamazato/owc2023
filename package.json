@@ -24,7 +24,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
-    "sass": "^1.63.6",
+    "sass": "^1.64.2",
     "uuid": "^9.0.0"
   },
   "keywords": [
@@ -41,6 +41,6 @@
     "package update": "ncu -u && rm -rf node_modules yarn.lock && yarn install && yarn build"
   },
   "devDependencies": {
-    "prettier": "^3.0.0"
+    "prettier": "^3.0.1"
   }
 }

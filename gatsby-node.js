@@ -79,17 +79,22 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     })
   }
 
-  // Tag pages:
-  let tags = []
-  // Iterate through each post, putting all found tags into `tags`
-  posts.forEach((post) => {
-    // if (_.get(post, `post.frontmatter.tags`)) {
-    tags = tags.concat(post.frontmatter.tags)
-    // }
-  })
 
-  // Eliminate duplicate tags
-  tags = _.uniq(tags)
+// Tag pages:
+let tags = []
+// Iterate through each post, putting all found tags into `tags`
+posts.forEach((edge) => {
+  if (_.get(edge, `node.frontmatter.tags`)) {
+    tags = tags.concat(edge.node.frontmatter.tags)
+  }
+})
+// Eliminate duplicate tags
+tags = _.uniq(tags)
+// Delete null tag
+tags = tags.filter(function (e) {
+  return e != null
+})
+console.log(tags)
 
   // Make tag pages
   tags.forEach((tag) => {
