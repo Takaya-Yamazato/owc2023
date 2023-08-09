@@ -52,12 +52,13 @@ Stay tuned!
 
 - 14:10 - 14:30
 
-  - Spatial 4PPM Correlation with Successive Interference Cancellation for Low-Luminance WDM/SDM Screen to Camera Uplink - Alisa Kawade, Wataru Chujo and Kentaro Kobayashi (Meijo University, Japan)
+  - Spatial 4PPM Correlation with Successive Interference Cancellation for Low-Luminance WDM/SDM Screen to Camera Uplink
+  - Alisa Kawade, Wataru Chujo and Kentaro Kobayashi (Meijo University, Japan)
 
 - 14:30 - 14:50
 
   - Neonate Heart Rate Variability Monitoring Using Optical Wireless Link <br />
-  - Amel Chehbani (CNRS, XLIM, University of Limoges, France); Stéphanie Sahuguède (XLIM UMR CNRS 7252 - University of Limoges, France); Anne Julien-Vergonjanne (University of Limoges & XLIM CNRS 7252, France)
+  - Amel Chehbani (CNRS, XLIM, University of Limoges, France); Stéphanie Sahuguède (University of Limoges, France); Anne Julien-Vergonjanne (University of Limoges & XLIM CNRS 7252, France)
 
 - 14:50 - 15:10
   - A Testbed to Integrate Private 5G Networks with Visible Light Communication for Service Area Expansion
@@ -90,7 +91,7 @@ Stay tuned!
 
 - 16:30 - 17:20
   - Keynote: Prof. Takaya YAMAZATO (Nagoya University, Japan)
-  - Title: Visible light communication (VLC) for cars
+  - Title: [Visible light communication (VLC) for cars](./Visible-Light-Communication.pdf)
 
 ---
 
