@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Optical Wireless Communications
-image: /img/jumbotron.jpg
+image: /img/jumbotron.webp
 heading: OWC'23
 subheading: International Workshop on Optical Wireless Communications (OWC'23), co-located with IEEE ISCC 2023
 mainpitch:

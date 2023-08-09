@@ -2,7 +2,7 @@
 templateKey: "about-page"
 path: /submission
 title: Submission
-image: /img/jumbotron.jpg
+image: /img/jumbotron.webp
 ---
 
 [Download Call for Submissions PDF >>](OWC-Workshop-CFP_IEEE_ISCC2023_0416.pdf)
@@ -31,4 +31,3 @@ Accepted papers will be included in the ISCC 2023 proceedings and will be submit
 The ISCC proceedings have been indexed in the past by ISI, DBLP and Scopus. 
 
 ---
-
