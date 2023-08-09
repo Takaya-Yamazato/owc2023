@@ -24,10 +24,10 @@ jobs:
       #          access-token: ${{ secrets.ACCESS_TOKEN }}
       #          gatsby-args: --prefix-paths
       # Node のセットアップ
-      - name: Use Node.js 20.x
+      - name: Use Node.js latest
         uses: actions/setup-node@v3
         with:
-          node-version: "20.x"
+          node-version: latest
       # Node の実行（npm install, npm run build）
       - name: Build project
         run: |

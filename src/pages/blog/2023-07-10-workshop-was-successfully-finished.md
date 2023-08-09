@@ -19,4 +19,4 @@ The keynote, presented by Prof. Yamazato, was also very informative. He kindly a
 
 Thank you very much to all our presenters and participants.
 
-Last but not least, we would like to extend our gratitude to our TCP members and our co-chairs, Dr. Chedlia Ben Naila (Nagoya University), Dr. Anna Maria Vegni (Roma Tre University), and Dr. Hanaa Abumarshoud (University of Glasgow). Without their tireless efforts, unwavering dedication, and team spirit were integral to the success of this workshop, and we are grateful for your contribution.
+Last but not least, we would like to extend our gratitude to our TCP members and our co-chairs, Dr. Takaya Yamazato (Nagoya University), Dr. Chedlia Ben Naila (Nagoya University), Dr. Anna Maria Vegni (Roma Tre University), and Dr. Hanaa Abumarshoud (University of Glasgow). Without their tireless efforts, unwavering dedication, and team spirit were integral to the success of this workshop, and we are grateful for your contribution.

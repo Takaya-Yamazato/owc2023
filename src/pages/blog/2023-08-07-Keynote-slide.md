@@ -11,4 +11,4 @@ tags:
   - Keynote slide
 ---
 
-The keynote, presented by Prof. Yamazato, is now available on the [program page](../program/).
+The keynote, presented by Prof. Yamazato, slide is now available on the [program page](../program/).
