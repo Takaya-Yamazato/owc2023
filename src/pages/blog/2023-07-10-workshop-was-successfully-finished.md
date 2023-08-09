@@ -8,6 +8,7 @@ description: We are delighted to share with you about our recently concluded OWC
 tags:
   - OWC’23
   - IEEE ISCC 2023
+  - Thank you
 ---
 
 On 9 July 2023, the first IEEE ISCC Workshop on Optical Wireless Communications (OWC’23) took place in Gamarth, Tunisia.
