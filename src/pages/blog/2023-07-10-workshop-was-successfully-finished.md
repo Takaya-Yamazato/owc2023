@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: First IEEE ISCC Workshop on Optical Wireless Communications was successfully finished.
+title: OWC'23 was successfully finished.
 date: 2023-7-10T19:42:10.000Z
-featuredpost: false
+featuredpost: true
 featuredimage: /img/og-image.jpg
 description: We are delighted to share with you about our recently concluded OWC’23.
 tags:
