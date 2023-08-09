@@ -24,12 +24,12 @@ jobs:
       #          access-token: ${{ secrets.ACCESS_TOKEN }}
       #          gatsby-args: --prefix-paths
       # Node のセットアップ
-      - name: Use Node.js 19.x
+      - name: Use Node.js 20.x
         uses: actions/setup-node@v3
         with:
-          node-version: "19.x"
+          node-version: "20.x"
       # Node の実行（npm install, npm run build）
-      - name: Build Project
+      - name: Build project
         run: |
           yarn
           yarn run build
@@ -38,7 +38,7 @@ jobs:
         run: ls -laFG
       # rsync の設定
       # https://github.com/marketplace/actions/rsync-deployments-action
-      - name: rsync deployments
+      - name: Rsync deployments
         uses: burnett01/rsync-deployments@5.2.1
         with:
           switches: -avzr --delete
