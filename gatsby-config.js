@@ -9,6 +9,7 @@ module.exports = {
   },
   pathPrefix: `/owc2023`,
   plugins: [
+    `gatsby-plugin-sitemap`,
     "gatsby-plugin-image",
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
