@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "OWC-2023",
     description: " 1st IEEE ISCC Workshop on Optical Wireless Communications (OWC’23) ",
-    siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/owc-2023/`,
+    siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/owc2023/`,
     social: {
       facebook: `https://www.facebook.com/JapanOCWConsortium/`,
     },
@@ -68,7 +68,7 @@ module.exports = {
       resolve: "gatsby-plugin-purgecss", // purges all unused/unreferenced css rules
       options: {
         develop: true, // Activates purging in npm run develop
-        purgeOnly: ["/all.sass"], // applies purging only on the bulma css file
+        // purgeOnly: ["/all.sass"], // applies purging only on the bulma css file
       },
     }, // must be after other CSS plugins
   ],
